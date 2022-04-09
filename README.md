@@ -1,2 +1,2 @@
 # justjava
-Sample java code for udacity lessons 
+Sample java code for interactive udacity lessons 
